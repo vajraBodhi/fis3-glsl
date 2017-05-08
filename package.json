@@ -1,0 +1,23 @@
+{
+  "name": "fis3-glsl",
+  "version": "0.1.0",
+  "description": "支持内联glsl着色器代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vajraBodhi/fis3-glsl.git"
+  },
+  "keywords": [
+    "glsl",
+    "fis3"
+  ],
+  "author": "cycasli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vajraBodhi/fis3-glsl/issues"
+  },
+  "homepage": "https://github.com/vajraBodhi/fis3-glsl#readme"
+}
